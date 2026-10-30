@@ -34,3 +34,5 @@ The architecture splits execution into isolated, parallel worker intervals. Rath
 3. Press **Enter** to trigger the countdown timer and begin navigation.
 4. Press **Space** once you cross the target operational threshold to resolve the zombie state.
 
+## 🔗 Live Demo
+Play the game directly in your browser here: **[Launch Zombie Attack Game 🎮](https://sayu772.github.io/Zombie-Attack-2D-Game/)**

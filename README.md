@@ -33,4 +33,4 @@ The architecture splits execution into isolated, parallel worker intervals. Rath
 2. Open `index.html` inside any standard modern web browser.
 3. Press **Enter** to trigger the countdown timer and begin navigation.
 4. Press **Space** once you cross the target operational threshold to resolve the zombie state.
-5.
+
